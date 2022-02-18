@@ -5,7 +5,7 @@
 <!-- default badges end -->
 
 
-# Dashboard for ASP.NET Core - Configuration
+# Dashboard for ASP.NET Core - Configuration for .NET 5
 
 The example shows how to integrate the Web Dashboard to your ASP.NET Core application that targets [.NET 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0).
 
@@ -23,5 +23,5 @@ Restore npm packages to launch the project. Note that the script version on the 
 - [Server-Side API Overview](https://docs.devexpress.com/Dashboard/400362/web-dashboard/aspnet-core-dashboard-control/server-side-api-overview)
 
 ## More Examples
-
+- [Dashboard for ASP.NET Core - Get Started (.NET 6)](https://github.com/DevExpress-Examples/asp-net-core-dashboard-get-started)
 - [Create an ASP.NET Core 2.1 Application](https://github.com/DevExpress-Examples/getting-started-create-an-aspnet-core-dashboard-designer-runtime-sample-t569834)
