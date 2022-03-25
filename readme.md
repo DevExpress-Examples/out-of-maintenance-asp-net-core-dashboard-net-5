@@ -24,4 +24,3 @@ Restore npm packages to launch the project. Note that the script version on the 
 
 ## More Examples
 - [Dashboard for ASP.NET Core - Get Started (.NET 6)](https://github.com/DevExpress-Examples/asp-net-core-dashboard-get-started)
-- [Create an ASP.NET Core 2.1 Application](https://github.com/DevExpress-Examples/getting-started-create-an-aspnet-core-dashboard-designer-runtime-sample-t569834)
