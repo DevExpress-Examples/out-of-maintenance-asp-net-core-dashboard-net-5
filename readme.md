@@ -11,7 +11,7 @@ The example shows how to integrate the Web Dashboard to your ASP.NET Core applic
 
 Restore npm packages to launch the project. Note that the script version on the client must match the version of libraries on the server.
 
-## Files to Look At
+## Files to Review
 
 * [Startup.cs](./CS/WebDashboardAspNetCore/Startup.cs)
 * [Index.html](./CS/WebDashboardAspNetCore/Views/Home/Index.cshtml)
